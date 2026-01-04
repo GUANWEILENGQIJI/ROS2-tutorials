@@ -1,0 +1,2 @@
+[console_scripts]
+fucking_node1 = my_first_pkg.fucking_node1:main
