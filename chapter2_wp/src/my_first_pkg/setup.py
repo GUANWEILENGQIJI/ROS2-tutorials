@@ -24,7 +24,10 @@ setup(
     },
     entry_points={
         'console_scripts': [
-        'fucking_node1 = my_first_pkg.fucking_node1:main'
+        'fucking_node = my_first_pkg.fucking_node:main',
+        'person_node = my_first_pkg.person_node:main',
+        'writer_node = my_first_pkg.writer_node:main',
+        'learn_thread = my_first_pkg.learn_thread:main',
         ],
     },
 )

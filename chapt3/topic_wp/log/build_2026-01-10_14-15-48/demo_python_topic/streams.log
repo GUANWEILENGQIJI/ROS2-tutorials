@@ -1,0 +1,33 @@
+[1.158s] Invoking command in '/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/src/demo_python_topic': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/build/demo_python_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/install/demo_python_topic/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/demo_python_topic build --build-base /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/build/demo_python_topic/build install --record /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/build/demo_python_topic/install.log --single-version-externally-managed install_data
+[1.500s] running egg_info
+[1.500s] creating ../../build/demo_python_topic/demo_python_topic.egg-info
+[1.526s] writing ../../build/demo_python_topic/demo_python_topic.egg-info/PKG-INFO
+[1.527s] writing dependency_links to ../../build/demo_python_topic/demo_python_topic.egg-info/dependency_links.txt
+[1.527s] writing requirements to ../../build/demo_python_topic/demo_python_topic.egg-info/requires.txt
+[1.528s] writing top-level names to ../../build/demo_python_topic/demo_python_topic.egg-info/top_level.txt
+[1.528s] writing manifest file '../../build/demo_python_topic/demo_python_topic.egg-info/SOURCES.txt'
+[1.582s] reading manifest file '../../build/demo_python_topic/demo_python_topic.egg-info/SOURCES.txt'
+[1.582s] adding license file 'LICENSE'
+[1.583s] writing manifest file '../../build/demo_python_topic/demo_python_topic.egg-info/SOURCES.txt'
+[1.583s] running build
+[1.583s] running build_py
+[1.584s] creating /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/build/demo_python_topic/build
+[1.584s] creating /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/build/demo_python_topic/build/lib
+[1.584s] creating /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/build/demo_python_topic/build/lib/demo_python_topic
+[1.585s] copying demo_python_topic/__init__.py -> /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/build/demo_python_topic/build/lib/demo_python_topic
+[1.585s] running install
+[1.592s] running install_lib
+[1.619s] creating /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic
+[1.620s] copying /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/build/demo_python_topic/build/lib/demo_python_topic/__init__.py -> /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic
+[1.620s] byte-compiling /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic/__init__.py to __init__.cpython-312.pyc
+[1.620s] running install_data
+[1.621s] creating /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/install/demo_python_topic/share/ament_index
+[1.621s] creating /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/install/demo_python_topic/share/ament_index/resource_index
+[1.621s] creating /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/install/demo_python_topic/share/ament_index/resource_index/packages
+[1.622s] copying resource/demo_python_topic -> /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/install/demo_python_topic/share/ament_index/resource_index/packages
+[1.622s] copying package.xml -> /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/install/demo_python_topic/share/demo_python_topic
+[1.622s] running install_egg_info
+[1.650s] Copying ../../build/demo_python_topic/demo_python_topic.egg-info to /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/install/demo_python_topic/lib/python3.12/site-packages/demo_python_topic-0.0.0-py3.12.egg-info
+[1.652s] running install_scripts
+[1.832s] writing list of installed files to '/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/build/demo_python_topic/install.log'
+[1.883s] Invoked command in '/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/src/demo_python_topic' returned '0': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/build/demo_python_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/install/demo_python_topic/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/demo_python_topic build --build-base /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/build/demo_python_topic/build install --record /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapt3/topic_wp/build/demo_python_topic/install.log --single-version-externally-managed install_data

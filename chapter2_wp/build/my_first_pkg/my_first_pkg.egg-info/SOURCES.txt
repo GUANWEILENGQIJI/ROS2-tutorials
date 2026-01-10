@@ -10,7 +10,10 @@ setup.py
 ../../build/my_first_pkg/my_first_pkg.egg-info/top_level.txt
 ../../build/my_first_pkg/my_first_pkg.egg-info/zip-safe
 my_first_pkg/__init__.py
-my_first_pkg/fucking_node1.py
+my_first_pkg/fucking_node.py
+my_first_pkg/learn_thread.py
+my_first_pkg/person_node.py
+my_first_pkg/writer_node.py
 resource/my_first_pkg
 test/test_copyright.py
 test/test_flake8.py

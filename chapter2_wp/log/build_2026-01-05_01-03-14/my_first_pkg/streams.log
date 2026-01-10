@@ -1,0 +1,27 @@
+[1.144s] Invoking command in '/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/src/my_first_pkg': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_pkg build --build-base /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/build/my_first_pkg/build install --record /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/build/my_first_pkg/install.log --single-version-externally-managed install_data
+[1.516s] running egg_info
+[1.543s] writing ../../build/my_first_pkg/my_first_pkg.egg-info/PKG-INFO
+[1.544s] writing dependency_links to ../../build/my_first_pkg/my_first_pkg.egg-info/dependency_links.txt
+[1.544s] writing entry points to ../../build/my_first_pkg/my_first_pkg.egg-info/entry_points.txt
+[1.544s] writing requirements to ../../build/my_first_pkg/my_first_pkg.egg-info/requires.txt
+[1.545s] writing top-level names to ../../build/my_first_pkg/my_first_pkg.egg-info/top_level.txt
+[1.598s] reading manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[1.599s] adding license file 'LICENSE'
+[1.600s] writing manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[1.600s] running build
+[1.600s] running build_py
+[1.601s] copying my_first_pkg/writer_node.py -> /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/build/my_first_pkg/build/lib/my_first_pkg
+[1.601s] running install
+[1.610s] running install_lib
+[1.638s] copying /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/build/my_first_pkg/build/lib/my_first_pkg/writer_node.py -> /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg
+[1.639s] byte-compiling /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg/writer_node.py to writer_node.cpython-312.pyc
+[1.640s] running install_data
+[1.640s] running install_egg_info
+[1.669s] removing '/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+[1.669s] Copying ../../build/my_first_pkg/my_first_pkg.egg-info to /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg-0.0.0-py3.12.egg-info
+[1.671s] running install_scripts
+[1.852s] Installing fucking_node script to /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/my_first_pkg
+[1.853s] Installing person_node script to /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/my_first_pkg
+[1.853s] Installing writer_node script to /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/my_first_pkg
+[1.853s] writing list of installed files to '/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/build/my_first_pkg/install.log'
+[1.902s] Invoked command in '/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/src/my_first_pkg' returned '0': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_pkg build --build-base /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/build/my_first_pkg/build install --record /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/build/my_first_pkg/install.log --single-version-externally-managed install_data

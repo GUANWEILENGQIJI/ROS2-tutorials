@@ -1,6 +1,12 @@
-/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg/fucking_node1.py
+/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg/person_node.py
+/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg/writer_node.py
+/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg/fucking_node.py
+/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg/learn_thread.py
 /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg/__init__.py
-/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg/__pycache__/fucking_node1.cpython-312.pyc
+/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg/__pycache__/person_node.cpython-312.pyc
+/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg/__pycache__/writer_node.cpython-312.pyc
+/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg/__pycache__/fucking_node.cpython-312.pyc
+/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg/__pycache__/learn_thread.cpython-312.pyc
 /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg/__pycache__/__init__.cpython-312.pyc
 /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/share/ament_index/resource_index/packages/my_first_pkg
 /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/share/my_first_pkg/package.xml
@@ -11,4 +17,7 @@
 /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg-0.0.0-py3.12.egg-info/entry_points.txt
 /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg-0.0.0-py3.12.egg-info/dependency_links.txt
 /home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/python3.12/site-packages/my_first_pkg-0.0.0-py3.12.egg-info/top_level.txt
-/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/my_first_pkg/fucking_node1
+/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/my_first_pkg/fucking_node
+/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/my_first_pkg/learn_thread
+/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/my_first_pkg/person_node
+/home/jvv/Desktop/tmp_code/python_Files/ros2-tut/chapter2_wp/install/my_first_pkg/lib/my_first_pkg/writer_node
